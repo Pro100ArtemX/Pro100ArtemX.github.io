@@ -150,7 +150,7 @@ li {
 }
 .work {
     width: calc((100% - 120px) / 2);
-    height: 430px;
+    min-height: 430px;
     padding: 30px;
     display: flex;
     flex-direction: column;
