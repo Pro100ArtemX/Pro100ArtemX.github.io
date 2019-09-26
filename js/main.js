@@ -119,4 +119,5 @@ $(document).on('scroll', () => {
 })
 $('#price').click(function () {
     $('#price_modal').show()
+    console.log('Show price')
 })
