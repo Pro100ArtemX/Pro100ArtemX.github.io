@@ -6,6 +6,7 @@ $('.animation-jello').click(function () {
     $(this).addClass('animated jello')
 })
 $('a#price').click(function () {
+    alert()
     $('#price_modal').css({
         visibility: 'visible'
     })
