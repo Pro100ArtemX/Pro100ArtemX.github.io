@@ -117,7 +117,7 @@ $(document).on('scroll', () => {
         $('.small_header').show()
     }
 })
-$('#price').parent().click(function () {
+$('#price').click(function () {
     $('#price_modal').css({
         visibility: 'visible'
     })
