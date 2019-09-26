@@ -5,7 +5,7 @@ const animated_elems = $('.animation-jello'),
 $('.animation-jello').click(function () {
     $(this).addClass('animated jello')
 })
-$('#price').click(function () {
+$('a#price').click(function () {
     $('#price_modal').css({
         visibility: 'visible'
     })
