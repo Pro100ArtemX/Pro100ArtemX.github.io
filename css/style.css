@@ -183,7 +183,10 @@ li {
     width: 100%;
 }
 .goto {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .lineend {
     background: #fe634a;
