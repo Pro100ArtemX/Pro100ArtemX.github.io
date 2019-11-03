@@ -182,6 +182,9 @@ li {
     height: calc(100vh - 172px);
     width: 100%;
 }
+.goto {
+    text-align: center;
+}
 .lineend {
     background: #fe634a;
     width: 100%;
